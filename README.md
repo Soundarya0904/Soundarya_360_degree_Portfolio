@@ -22,7 +22,6 @@ Power BI: Used for data visualization and creating dynamic and interactive visua
 Usage
 To use this project, follow these steps:
 
-Clone the repository: git clone https://github.com/Soundarya/hotel-revenue-analysis.git
 Set up the necessary dependencies and tools (SQL Server and Power BI).
 Import the hotel dataset into your SQL Server database.
 Execute the provided SQL queries to perform data analysis and address the key questions.
