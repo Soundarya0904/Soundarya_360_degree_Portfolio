@@ -1,4 +1,5 @@
-# Soundarya_360_degree_Portfolio
+# Mini_projects
+
 Analyzing-Hotel-Booking-Data
 This project involves analyzing hotel data from 2018, 2019, and 2020 to gain insights into hotel revenue growth, guest occupancy patterns, and other trends. The analysis is conducted using SQL Server for data analysis and Power BI for data visualization, providing dynamic and interactive visualizations.
 
